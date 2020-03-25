@@ -10,6 +10,7 @@ public class Suggestion {
     @SerializedName("cw")
     public CarWash carWash;
 
+    @SerializedName("sport")
     public Sport sport;
 
     public class Comfort{
